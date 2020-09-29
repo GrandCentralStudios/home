@@ -1,0 +1,36 @@
+body {
+    background-image: url(https://lh3.googleusercontent.com/8t7-vbISs_bVSfwarkna5Nm-2UPn83qY34m0pkdZrC2MBRKtRmreE6aFzbxFfhJI-1vtt839WNtTtYPEu1sST5nybLl4z001Ud9wa7UX2TuckVWexOjQIpWLYWreXKsTabjCnHRaPA=w2400);
+    width: 98%;
+    height: 98%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    font-family: verdana;
+}
+.buttons-tab {
+	overflow: hidden;
+	background-color: deepskyblue;
+	padding: 3px 5px;
+}
+		.buttons-tab button {
+	float: right;
+}
+        .menu-button {
+  background-color: #E6E6E6;
+  border: 2px solid black;
+  color: black;
+  padding: 1px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-color: #D3D3D3;
+  font-family: verdana;
+}
+		.note {
+	background: -webkit-linear-gradient(#FFFFFF, #B3B3B3);
+  	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
